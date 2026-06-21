@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=2E9BDA&center=true&vCenter=true&width=480&lines=Hola%2C+soy+Jaime+Prieto+Rubio+%F0%9F%91%8B;Desarrollador+Full+Stack+Junior;Java+%C2%B7+Spring+Boot+%C2%B7+Angular;IA+%26+Automatizaci%C3%B3n+con+Make" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=2E9BDA&center=true&vCenter=true&width=480&lines=Hola%2C+soy+Jaime+Prieto+Rubio+%F0%9F%91%8B;Desarrollador+Full+Stack+Junior;Automatizaciones+no-code" alt="Typing SVG" />
 
 <p>
   <img src="https://img.shields.io/badge/Open%20to%20work-1f6feb?style=flat-square&logo=github" alt="Open to work"/>
@@ -46,8 +46,11 @@ Desarrollador Full Stack Junior con **1,5 años de experiencia profesional** con
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-<sub>También: APIs REST · JDBC · interceptores HTTP · integración de IA · .NET (en formación)</sub>
+![APIs REST](https://img.shields.io/badge/APIs_REST-009688?style=for-the-badge)
+![JDBC](https://img.shields.io/badge/JDBC-4479A1?style=for-the-badge)
+![Interceptores HTTP](https://img.shields.io/badge/Interceptores_HTTP-FF6F00?style=for-the-badge)
+![Integración de IA](https://img.shields.io/badge/Integraci%C3%B3n_de_IA-412991?style=for-the-badge)
+![.NET](https://img.shields.io/badge/.NET_(en_formación)-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
 **Frontend**
 &nbsp;
@@ -83,7 +86,14 @@ Desarrollador Full Stack Junior con **1,5 años de experiencia profesional** con
 ![Make](https://img.shields.io/badge/Make-6D00CC?style=for-the-badge&logo=make&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 
-<sub>Metodologías: Scrum · desarrollo ágil &nbsp;|&nbsp; Sistemas: Linux · Windows &nbsp;|&nbsp; IDEs: Eclipse · Visual Studio · VS Code</sub>
+**Metodologías · Sistemas · Entornos**
+&nbsp;
+![Scrum](https://img.shields.io/badge/Scrum-EF6C00?style=for-the-badge)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
 
@@ -93,6 +103,8 @@ Desarrollador Full Stack Junior con **1,5 años de experiencia profesional** con
 
 - Migré las conexiones de una aplicación Java garantizando la compatibilidad simultánea con **Oracle** y **SQL Server**.
 - Desarrollé funcionalidades y resolví incidencias en cada sprint (**Scrum**), cumpliendo los plazos de entrega del producto interno.
+- Propuse e impulsé iniciativas de formación del equipo: IA aplicada con Java, lógica de programación e inglés técnico.
+
 ---
 
 ### 🎓 Formación
@@ -145,6 +157,7 @@ Full Stack Junior Developer with 1.5 years of professional experience building a
 **Experience** — Junior Web Application Developer · WEXLOG Spain · Sevilla (2025 – Present)
 - Migrated a Java application's connections ensuring compatibility with Oracle and SQL Server.
 - Delivered features and fixed issues every sprint under Scrum, meeting deadlines.
+- Proposed and drove team training initiatives (AI with Java, programming logic, technical English).
 
 **Education** — Higher Diploma in Web Application Development (Altair, Sevilla) · Baccalaureate (IES Tartessos)
 **Languages** — Spanish (native) · English (B1)
