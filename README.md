@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=2E9BDA&center=true&vCenter=true&width=600&lines=Hola%2C+soy+Jaime+Prieto+Rubio+%F0%9F%91%8B;Full+Stack+Developer+%7C+Java+%26+Spring+Boot;Angular+%7C+IA+%26+Automatizaci%C3%B3n+con+Make" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=2E9BDA&center=true&vCenter=true&width=480&lines=Hola%2C+soy+Jaime+Prieto+Rubio+%F0%9F%91%8B;Desarrollador+Full+Stack+Junior;Java+%C2%B7+Spring+Boot+%C2%B7+Angular;IA+%26+Automatizaci%C3%B3n+con+Make" alt="Typing SVG" />
 
 <p>
   <img src="https://img.shields.io/badge/Open%20to%20work-1f6feb?style=flat-square&logo=github" alt="Open to work"/>
@@ -21,16 +21,20 @@
 
 ---
 
-### 🚀 ¿Cómo puedo aportar valor a tu proyecto?
+### 👨‍💻 Perfil profesional
 
-Transformo problemas complejos en soluciones digitales eficientes, combinando la robustez del **backend en Java/Spring Boot** con la agilidad de la **IA y la automatización**. Ayudo a empresas y clientes a escalar sus operaciones mediante:
+Desarrollador Full Stack Junior con **1,5 años de experiencia profesional** construyendo y manteniendo aplicaciones web con **Java, Spring Boot y Angular**. Técnico Superior en Desarrollo de Aplicaciones Web (DAW). Experiencia en integración y migración de bases de datos relacionales, desarrollo de APIs REST y trabajo en equipo bajo metodología Scrum. Formación específica en la integración de inteligencia artificial en aplicaciones empresariales.
+
+> 💡 ¿Tienes un proyecto o una vacante? **Estoy disponible** — escríbeme y respondo rápido.
+
+---
+
+### 🚀 ¿Cómo puedo aportar valor?
 
 - 💻 **Desarrollo Full-Stack** — aplicaciones web modernas con **Angular** y backends potentes con **Java / Spring Boot**.
 - 🤖 **Automatización con IA** — flujos inteligentes en **Make** y **n8n**, integrando OpenAI/LLMs para crear asistentes y procesos autónomos.
 - 🗄️ **Arquitectura de datos** — diseño y gestión de bases de datos relacionales (MySQL, PostgreSQL, Oracle, SQL Server).
 - 🎨 **Diseño UX/UI** — interfaces intuitivas y orientadas al usuario.
-
-> 💡 ¿Tienes un proyecto o una vacante? **Estoy disponible** — escríbeme y respondo rápido.
 
 ---
 
@@ -42,6 +46,8 @@ Transformo problemas complejos en soluciones digitales eficientes, combinando la
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+<sub>También: APIs REST · JDBC · interceptores HTTP · integración de IA · .NET (en formación)</sub>
 
 **Frontend**
 &nbsp;
@@ -60,15 +66,49 @@ Transformo problemas complejos en soluciones digitales eficientes, combinando la
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 
-**DevOps · Calidad · Automatización**
+**Testing · Calidad · DevOps**
 &nbsp;
+![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+**Cloud · Automatización**
+&nbsp;
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 ![Make](https://img.shields.io/badge/Make-6D00CC?style=for-the-badge&logo=make&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+
+<sub>Metodologías: Scrum · desarrollo ágil &nbsp;|&nbsp; Sistemas: Linux · Windows &nbsp;|&nbsp; IDEs: Eclipse · Visual Studio · VS Code</sub>
+
+---
+
+### 💼 Experiencia profesional
+
+**Desarrollador de Aplicaciones Web Junior** · WEXLOG Spain · Sevilla · *2025 – Actualidad*
+
+- Migré las conexiones de una aplicación Java garantizando la compatibilidad simultánea con **Oracle** y **SQL Server**.
+- Desarrollé funcionalidades y resolví incidencias en cada sprint (**Scrum**), cumpliendo los plazos de entrega del producto interno.
+- Propuse e impulsé iniciativas de formación del equipo: IA aplicada con Java, lógica de programación e inglés técnico.
+
+---
+
+### 🎓 Formación
+
+- **Técnico Superior en Desarrollo de Aplicaciones Web (DAW)** — Centro Educativo Altair, Sevilla
+- **Bachillerato** — IES Tartessos, Sevilla
+
+### 📜 Certificaciones
+
+- Inteligencia Artificial aplicada con Java y desarrollo no-code
+
+### 🌐 Idiomas
+
+- 🇪🇸 Español — Nativo &nbsp;·&nbsp; 🇬🇧 Inglés — B1
 
 ---
 
@@ -100,14 +140,17 @@ Transformo problemas complejos en soluciones digitales eficientes, combinando la
 
 <br/>
 
-**Full Stack Developer | Java & Spring Boot | Angular | AI & Automation**
+**Full Stack Junior Developer | Java & Spring Boot | Angular | AI & Automation**
 
-I turn complex problems into efficient digital solutions, combining robust **Java/Spring Boot** backends with the agility of **AI and automation**. I help companies and clients scale their operations through:
+Full Stack Junior Developer with 1.5 years of professional experience building and maintaining web applications with Java, Spring Boot and Angular. Higher Diploma in Web Application Development. Experience in relational database integration/migration, REST API development and agile teamwork (Scrum).
 
-- **Full-Stack Development** — modern web apps with Angular and powerful Java/Spring Boot backends.
-- **AI-Powered Automation** — intelligent workflows in Make and n8n, integrating OpenAI/LLMs.
-- **Data Architecture** — relational database design (MySQL, PostgreSQL, Oracle, SQL Server).
-- **UX/UI Design** — intuitive, user-focused interfaces.
+**Experience** — Junior Web Application Developer · WEXLOG Spain · Sevilla (2025 – Present)
+- Migrated a Java application's connections ensuring compatibility with Oracle and SQL Server.
+- Delivered features and fixed issues every sprint under Scrum, meeting deadlines.
+- Proposed and drove team training initiatives (AI with Java, programming logic, technical English).
+
+**Education** — Higher Diploma in Web Application Development (Altair, Sevilla) · Baccalaureate (IES Tartessos)
+**Languages** — Spanish (native) · English (B1)
 
 📧 jaimeprietorubio@gmail.com · 🔗 [LinkedIn](https://www.linkedin.com/in/jaime-prieto-rubio-941bba337)
 
