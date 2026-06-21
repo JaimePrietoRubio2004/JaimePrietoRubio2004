@@ -103,8 +103,6 @@ Desarrollador Full Stack Junior con **1,5 años de experiencia profesional** con
 
 - Migré las conexiones de una aplicación Java garantizando la compatibilidad simultánea con **Oracle** y **SQL Server**.
 - Desarrollé funcionalidades y resolví incidencias en cada sprint (**Scrum**), cumpliendo los plazos de entrega del producto interno.
-- Propuse e impulsé iniciativas de formación del equipo: IA aplicada con Java, lógica de programación e inglés técnico.
-
 ---
 
 ### 🎓 Formación
@@ -131,8 +129,6 @@ Desarrollador Full Stack Junior con **1,5 años de experiencia profesional** con
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=JaimePrietoRubio2004&theme=tokyonight&hide_border=true" alt="streak"/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=JaimePrietoRubio2004&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8" alt="trophies"/>
-
 </div>
 
 ---
@@ -157,7 +153,6 @@ Full Stack Junior Developer with 1.5 years of professional experience building a
 **Experience** — Junior Web Application Developer · WEXLOG Spain · Sevilla (2025 – Present)
 - Migrated a Java application's connections ensuring compatibility with Oracle and SQL Server.
 - Delivered features and fixed issues every sprint under Scrum, meeting deadlines.
-- Proposed and drove team training initiatives (AI with Java, programming logic, technical English).
 
 **Education** — Higher Diploma in Web Application Development (Altair, Sevilla) · Baccalaureate (IES Tartessos)
 **Languages** — Spanish (native) · English (B1)
